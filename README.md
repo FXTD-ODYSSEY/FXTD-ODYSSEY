@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-[B站](https://space.bilibili.com/12895307)
-[个人博客](https://blog.l0v0.com/)
+[BiliBili](https://space.bilibili.com/12895307)    
+[Blog](https://blog.l0v0.com/)
 
 <!--
 **FXTD-ODYSSEY/FXTD-ODYSSEY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
