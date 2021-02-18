@@ -2,6 +2,7 @@
 
 [BiliBili](https://space.bilibili.com/12895307)    
 [Blog](https://blog.l0v0.com/)
+[HoudiniWiki](https://hou.l0v0.com/)
 
 <!--
 **FXTD-ODYSSEY/FXTD-ODYSSEY** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
