@@ -26,7 +26,7 @@
 ---
 
 <div>
-&emsp;&emsp;My name is timmyliang, Currently work in Tencent as a Technical Artist / Tool Developer, Nice to meet you.
+&emsp;&emsp;My name is TimmyLiang, Currently work in Tencent as a Technical Artist / Tool Developer, Nice to meet you.
 
 </div>
 
@@ -59,7 +59,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=MayaViewportCapture)](https://github.com/FXTD-ODYSSEY/MayaViewportCapture)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=mpdb)](https://github.com/FXTD-ODYSSEY/mpdb)
 
-## CodeBase
+##  <img src="https://avatars.githubusercontent.com/u/40897360?v=4" width="20" height="20"> CodeBase
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=MayaScript)](https://github.com/FXTD-ODYSSEY/MayaScript)
 
