@@ -26,11 +26,15 @@
 ---
 
 <div>
-&emsp;&emsp;My name is TimmyLiang, Currently work in Tencent as a Technical Artist / Tool Developer, Nice to meet you.
+&emsp;&emsp;My name is TimmyLiang, Nice to meet you.
 
+- 🔭 I’m currently working on Tencent as a Technical Artist (Tool Developer).
+- 🌱 I’m currently learning `Unreal` `Houdini` `Maya`
+- 📫 How to reach me: 82047258@qq.com
+ 
 </div>
 
-# My Open Source Project
+# Open Source Project ✨
 
 ## <img src="https://resume.l0v0.com/python.jpg" width="20" height="20"> Python
 
@@ -58,6 +62,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=Maya-UIBot)](https://github.com/FXTD-ODYSSEY/Maya-UIBot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=MayaViewportCapture)](https://github.com/FXTD-ODYSSEY/MayaViewportCapture)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=mpdb)](https://github.com/FXTD-ODYSSEY/mpdb)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=Maya-CallbackNode)](https://github.com/FXTD-ODYSSEY/Maya-CallbackNode)
 
 ##  <img src="https://avatars.githubusercontent.com/u/40897360?v=4" width="20" height="20"> CodeBase
 
