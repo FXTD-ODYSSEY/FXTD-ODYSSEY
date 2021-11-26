@@ -17,10 +17,10 @@
 [Photoshop](https://www.photoshop.com/) · 
 [Unreal](https://www.unrealengine.com)
  
-![Visitor Count](https://profile-counter.glitch.me/FXTD-ODYSSEY/count.svg)
+<!-- ![Visitor Count](https://profile-counter.glitch.me/FXTD-ODYSSEY/count.svg) -->
+![Visitor Count](https://count.getloli.com/get/@FXTD-ODYSSEY?theme=gelbooru)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api/?username=FXTD-ODYSSEY&show_icons=true&title_color=3380C4&icon_color=3380C4&text_color=edf2f7&bg_color=151515)
-
 </div>
 
 ---
