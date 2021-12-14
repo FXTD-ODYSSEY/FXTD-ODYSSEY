@@ -40,6 +40,8 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=QBinder)](https://github.com/FXTD-ODYSSEY/QBinder)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=pyuiw)](https://github.com/FXTD-ODYSSEY/pyuiw)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=dayu_widgets_overlay)](https://github.com/FXTD-ODYSSEY/dayu_widgets_overlay)
+
 
 ## <img src="https://resume.l0v0.com/unreal.png" width="20" height="20"> Unreal
 
