@@ -10,7 +10,9 @@
 
 [![Github](https://img.shields.io/github/followers/FXTD-ODYSSEY?style=social)](https://github.com/FXTD-ODYSSEY)
 [![Github](https://img.shields.io/github/stars/FXTD-ODYSSEY?style=social)](https://github.com/FXTD-ODYSSEY)
-
+ 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%2336BCF7&size=25&center=true&lines=Python+Tool+Developer;Techinal+Artist;Pipeline+TD;Master+Python+Qt)](https://git.io/typing-svg)
+ 
 [Python](https://www.python.org/) · 
 [Maya](https://www.autodesk.com/products/maya) · 
 [Houdini](https://www.sidefx.com/) · 
