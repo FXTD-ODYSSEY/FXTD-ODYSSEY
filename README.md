@@ -48,6 +48,7 @@
 ## <img src="https://resume.l0v0.com/unreal.png" width="20" height="20"> Unreal
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=Unreal-PyToolkit)](https://github.com/FXTD-ODYSSEY/Unreal-PyToolkit)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=Unreal-Playground)](https://github.com/FXTD-ODYSSEY/Unreal-Playground)
 
 
 
@@ -62,7 +63,7 @@
 
 ## <img src="https://resume.l0v0.com/maya.png" width="20" height="20"> Maya
 
-
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=CMakeMaya)](https://github.com/FXTD-ODYSSEY/CMakeMaya)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=Maya-UIBot)](https://github.com/FXTD-ODYSSEY/Maya-UIBot)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=MayaViewportCapture)](https://github.com/FXTD-ODYSSEY/MayaViewportCapture)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=mpdb)](https://github.com/FXTD-ODYSSEY/mpdb)
