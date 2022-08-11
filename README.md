@@ -68,6 +68,9 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=MayaViewportCapture)](https://github.com/FXTD-ODYSSEY/MayaViewportCapture)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=mpdb)](https://github.com/FXTD-ODYSSEY/mpdb)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=Maya-CallbackNode)](https://github.com/FXTD-ODYSSEY/Maya-CallbackNode)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=Maya-CurveBrush)](https://github.com/FXTD-ODYSSEY/Maya-CurveBrush)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=FXTD-ODYSSEY&repo=Maya-VertexColorPainter)](https://github.com/FXTD-ODYSSEY/Maya-VertexColorPainter)
+
 
 ##  <img src="https://avatars.githubusercontent.com/u/40897360?v=4" width="20" height="20"> CodeBase
 
