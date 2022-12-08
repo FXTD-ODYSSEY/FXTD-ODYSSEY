@@ -30,8 +30,8 @@
 <div>
 &emsp;&emsp;My name is TimmyLiang, Nice to meet you.
 
-- 🔭 I’m currently working on Tencent as a Technical Artist (Tool Developer).
-- 🌱 I’m currently learning `Unreal` `Houdini` `Maya`
+- 🔭 I’m a Technical Artist (Tool Developer).
+- 🌱 I’m learning `Unreal` `Houdini` `Maya` `Motionbuilder` and more
 - 📫 How to reach me: 82047258@qq.com
  
 </div>
